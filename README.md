@@ -86,4 +86,4 @@ My work focuses on:
 - Techno-Functional / Product-Data Roles  
 
 📫 **Let’s connect:**  
-[LinkedIn](#) • [Email](mailto:rajcloud777@gmail.com)
+[LinkedIn](www.linkedin.com/in/raj-barath-bd)
