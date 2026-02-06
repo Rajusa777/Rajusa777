@@ -86,4 +86,4 @@ My work focuses on:
 - Techno-Functional / Product-Data Roles  
 
 📫 **Let’s connect:**  
-[LinkedIn](www.linkedin.com/in/raj-barath-bd)
+LinkedIn www.linkedin.com/in/raj-barath-bd
