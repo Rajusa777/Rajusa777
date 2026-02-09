@@ -3,14 +3,14 @@
 **Applied AI / ML Engineer | Full-Stack Product Engineer | Techno-Functional Background**
 
 📍 Binghamton, NY, USA  
-🎓 MS Information Systems (Data Science) – Binghamton University  
+🎓 MS Information Systems (Data Science) - Binghamton University  
 💼 8+ years experience across Data, Cloud, AI, Product & Enterprise Systems  
 
 ---
 
 ## 👋 About Me
 
-I build **end-to-end data and AI systems** — from problem framing and system architecture
+I build **end-to-end data and AI systems** - from problem framing and system architecture
 to model training, full-stack integration, and production-ready delivery.
 
 My work focuses on:
@@ -25,7 +25,7 @@ My work focuses on:
 
 ## 🚀 Featured Projects
 
-### 🧠 AI Career Navigator – Full-Stack ML Product
+### 🧠 AI Career Navigator - Full-Stack ML Product
 **Problem:** 30–40% undergraduate dropout rates due to major mismatch  
 **Solution:** Designed and built an end-to-end ML-driven decision support system  
 
@@ -40,7 +40,7 @@ My work focuses on:
 
 ---
 
-### 🤖 Applied Generative AI – LLM & RAG (Enterprise Ticket Intelligence)
+### 🤖 Applied Generative AI - LLM & RAG (Enterprise Ticket Intelligence)
 **Problem:** 15–45 min delays in batch ticket prioritization affecting SLAs  
 **Solution:** Designed a near-real-time GenAI-driven decision system  
 
@@ -54,7 +54,7 @@ My work focuses on:
 
 ---
 
-### 🏗 Industry 4.0 Platform – C4V Battery Analytics
+### 🏗 Industry 4.0 Platform - C4V Battery Analytics
 **Problem:** Fragmented battery test & manufacturing analytics  
 **Solution:** Re-architected a production analytics platform for scalability  
 
