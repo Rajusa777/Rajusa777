@@ -4,7 +4,9 @@
 
 📍 Binghamton, NY, USA  
 🎓 MS Information Systems (Data Science) - Binghamton University  
-💼 8+ years experience across Data, Cloud, AI, Product & Enterprise Systems  
+💼 Experienced across Data, Cloud, AI, Product & Enterprise Systems  
+
+LinkedIn www.linkedin.com/in/raj-barath-bd
 
 ---
 
